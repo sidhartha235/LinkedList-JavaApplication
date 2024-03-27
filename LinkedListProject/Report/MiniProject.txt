@@ -1,0 +1,23 @@
+Illustration of Doubly Linked List & Circular Singly Linked List using GUI
+
+-> Creation of Doubly Linked List based on user input.
+-> Creation of Circular Singly Linked List based on user input.
+-> Usage of Java OOPS concepts and logic behind the DLL and CLL data structures.
+-> Demonstration of Insertion and Deletion of nodes using the graphical interface(Swing & AWT).
+
+
+
+TEAM:
+
+- Sidhartha Ananthula
+- 21MCME08
+- 7989550843
+- ananthulasidhartha03@gmail.com ; 21mcme08@uohyd.ac.in
+
+- Meher Sai Kotthagattu
+- 21MCME07
+- 7981159561
+- mehersaik2004@gmail.com ; 21mcme07@uohyd.ac.in
+
+
+			      

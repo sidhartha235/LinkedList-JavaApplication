@@ -1,0 +1,17 @@
+-> Navigate to the Source folder.
+-> Compile : javac *.java
+-> Run : java Main
+
+
+
+-> When the main file has executed a window appears asking for 'Doubly Linked List' OR 'Circular Singly Linked List' to choose for its representation using GUI.
+
+-> Then a new window opens and at the bottom, there will be a Control Panel including ComboBoxes and Buttons for Insert and Delete operations on the Linked Lists as well as 2 text fields for giving input of 'value' and 'index', when required.
+
+-> Select one option from the ComboBoxes and click on the respective button to perform the operation associated with it, i.e. 'Insert' or 'Delete'.
+
+-> Also a non-editable text field is present which shows the 'Size' of the Linked List.
+
+-> A Scroll Bar is also added which can help to view the nodes that go beyond the visibility of the screen. But it is currently not working.
+
+-> One can go back to the initial window that appears when the respective Linked List window is closed, to choose again from 'Doubly Linked List' OR 'Circular Singly Linked List'.
